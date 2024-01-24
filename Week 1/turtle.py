@@ -1,1 +1,3 @@
-import turtle
+from turtle import *
+
+forward(100)
