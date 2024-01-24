@@ -1,3 +1,3 @@
-from turtle import *
+import random
 
-forward(100)
+print("hello")
